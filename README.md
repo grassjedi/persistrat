@@ -1,0 +1,4 @@
+persistrat
+==========
+
+strategy based persistence
