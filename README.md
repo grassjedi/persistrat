@@ -1,4 +1,0 @@
-persistrat
-==========
-
-strategy based persistence
